@@ -1,6 +1,6 @@
 #COVID-19
 
-## Description
+<!-- ## Description
 * Daily list of cases per Country, updated with latest live count. 
 
 ## Installing
@@ -26,4 +26,4 @@
 ## Acknowledgments
 * Hat tip to anyone whose code was used
 * Inspiration
-* etc
+* etc -->
