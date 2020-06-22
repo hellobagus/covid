@@ -9,7 +9,7 @@ function India() {
   useEffect(() => {
     const fetchData = async () => {
       const response = await fetch(
-        `https://api.covid19api.com/live/country/india`
+        `https://api.covid19api.com/live/country/indonesia`
       );
       const resJson = await response.json();
       setloading(false);
@@ -20,7 +20,7 @@ function India() {
   return (
     <div>
       <h5 className="mb-4 font-weight-bold text-secondary">
-        COVID-19 LIVE UPDATES OF INDIA
+        COVID-19 LIVE UPDATES OF INDONESIA
       </h5>
       <p
         className="font-weight-bold text-secondary"
